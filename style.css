@@ -1,0 +1,79 @@
+body{
+    color: white;
+    font-family: 'Ubuntu';
+    background-image: url(./img/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.font__text{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-left: 50px;
+}
+
+.info__text{
+    margin-top: 25px;
+    margin-bottom:60px;
+    margin-right: 1200px;
+}
+
+.img__1{
+    margin-right: 35px;
+}
+
+.img__2{
+    margin-right: 35px;
+}
+
+.redes__sociais{
+    position: absolute;
+    transform: translate(-50%, -80%);
+    z-index: -1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 1850px;
+    margin-top: -150px;
+
+}
+
+.youtube{
+    margin-bottom: 25px;
+}
+
+.twitter{
+    margin-bottom: 25px;
+}
+
+.instagram{
+    margin-bottom: 25px;
+}
+
+.facebook{
+    margin-bottom: 25px;
+}
+
+.press__movie{
+    color: white;
+    text-decoration: none;
+    margin-right: 25px;
+}
+
+.press__personagens{
+    color: white;
+    text-decoration: none;
+    margin-right: 25px;
+}
+
+.press__galeria{
+    color: white;
+    text-decoration: none;
+    margin-right: 25px;
+}
+
+.press__news{
+    color: white;
+    text-decoration: none;
+    margin-right: 25px;
+}
